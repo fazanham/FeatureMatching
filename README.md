@@ -22,7 +22,7 @@ Affine:<br/>
 Affine + RANSAC:
 ![house_affine_ransac](https://user-images.githubusercontent.com/33495209/52169840-98e8df80-270c-11e9-9c4f-8ebcf3a23df2.PNG)
 
-Homography:
+Homography:<br/>
 ![homography_library](https://user-images.githubusercontent.com/33495209/52169842-a3a37480-270c-11e9-9ad6-bd1092ab4555.PNG)
 
 Homography + RANSAC:
