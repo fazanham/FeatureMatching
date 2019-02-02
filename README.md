@@ -16,7 +16,7 @@ I have also provided a function for shifting the coordinates to a centroid syste
 This script provides an implementation of RANSAC for computing the transformations using a selected number of inlier points. The Euclidean distance metric is used to determine the 'outlingness' of the points. You have to provide the minimum number of inliers you want to detect and a threshold for classifying a point pair as an inlier. 
 
 # Example
-Affine:
+Affine:<br/>
 ![house_affine](https://user-images.githubusercontent.com/33495209/52169837-8a022d00-270c-11e9-9289-37ad97689b0c.PNG)
 
 Affine + RANSAC:
