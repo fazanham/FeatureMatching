@@ -7,9 +7,9 @@ Numpy<br/>
 Matplotlib<br/>
 
 # Transformations
-The script provides two transformations: Affine transformation (a linear transformation that preserves the parallelism of lines) and Homography transformation (a projective transformation).<br/>
+The script provides two transformations: Affine transformation (a linear transformation that preserves the parallelism of lines) and Homography transformation (a projective transformation).<br/><br/>
 Since the Affine matrix has 6 DoFs, you need a minimum of 3 corresponding pairs to solve the problem.<br/>
-For Homography matrix there are 8 DoFs, so you need a minimum of 4 corresponding pairs.<br/>
+For Homography matrix there are 8 DoFs, so you need a minimum of 4 corresponding pairs.<br/><br/>
 I have also provided a function for shifting the coordinates to a centroid system, as in the case of large coordinate values, the matrices can become instable during inversion.
 
 # RANSAC
